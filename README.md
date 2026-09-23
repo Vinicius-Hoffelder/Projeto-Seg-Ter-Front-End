@@ -35,7 +35,6 @@ Use os campos `username` e `password` de um usuario retornado pela API. O app co
 - Joao Vitor Buratti | RA: 1136821
 - Eduardo Barreda | RA: 1138704
 
-Atualize os mesmos dados em `src/data/grupo.js` antes de entregar.
 
 ## Recursos implementados
 
